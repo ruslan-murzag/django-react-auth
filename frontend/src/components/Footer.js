@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <div>
-            <h4>Created by Ruslan</h4>
+            {/*<h4>Created by Ruslan</h4>*/}
         </div>
     )
 }
